@@ -1,0 +1,12 @@
+CARLOS E. MORENO PROJECT:
+
+#Main Conclusions from Analysis
+#(1) Capomulin and Remicane are the only two drugs that demonstrated a decrease in Tumor Volume 
+#    by day 45 vs. base line, where tumor volume went from 45cm3 to 36.2cm for Capomulin, and 
+#    from 45 to 34.9 for Remicane. Other drugs (including placebo) showed increase in Tumor Volume.
+#(2) Standard Error analysis suggest that the decrease demonstrated by Capomulin and Remicane 
+#    are significantly higher vs. placebo.
+#(3) Capomulin and Remicane also demonstrated the highest survival rate for mouses wher 23 of 25 mouses were 
+#    still alive by day 45.  Other products had survival rates in line to what placebo demonstrated.
+#(4) Capomulin and Remicane were the only two drugs that showed a decrease in Tumor Volume (-19.48% for Capomulin
+#    and -22.32% for Remicane.  Other drugs showed increase in Tumor Volume between 42.53% to 57.03%)
